@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/ownkeyerer/Just",
-  "repository": "https://github.com/ownkeyerer/Just",
+  "website": "https://github.com/ignorey/vee",
+  "repository": "https://github.com/ignorey/vee",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
